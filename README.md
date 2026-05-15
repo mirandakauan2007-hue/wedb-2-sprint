@@ -31,8 +31,8 @@ O projeto consiste na criação de uma interface front-end utilizando **HTML, CS
 - CSS3 → estilização e layout  
 - JavaScript → interatividade  
 
-## Participantes:
-
-
-## 📁 Estrutura do projeto
-
+## 👥 Integrantes
+- Isadora Bradac RM:569585
+- Murilo RM:573517
+- Enrico RM:562384
+- Kauã RM:569473
