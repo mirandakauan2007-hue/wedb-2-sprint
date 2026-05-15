@@ -1,4 +1,4 @@
-# 🚀 WEB 2 - SPRINT 2
+# 🚀 WEB  - SPRINT 2
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
