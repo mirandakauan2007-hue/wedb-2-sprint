@@ -25,8 +25,6 @@ O projeto consiste na criação de uma interface front-end utilizando **HTML, CS
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5 → estrutura da aplicação  
-- CSS3 → estilização e layout  
 - JavaScript → interatividade  
 
 ## 👥 Integrantes
