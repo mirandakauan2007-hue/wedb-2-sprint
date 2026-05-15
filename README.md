@@ -7,15 +7,15 @@
 
 ## 📌 Sobre o projeto
 
-O **WEB 2 - SPRINT 2 FRONT-END** é um projeto acadêmico desenvolvido com o objetivo de aplicar conhecimentos fundamentais de desenvolvimento web.
+O **WEB 2 - SPRINT 2  é um projeto acadêmico desenvolvido com o objetivo de aplicar conhecimentos fundamentais de desenvolvimento web.
 
-O projeto consiste na criação de uma interface front-end utilizando **HTML, CSS e JavaScript**, com foco em organização, estrutura semântica, estilização e interatividade básica.
+O projeto consiste na criação de uma interface front-end utilizando **HTML e JavaScript**, com foco em organização, estrutura semântica e interatividade básica.
 
 ---
 
 ## 🎯 Objetivo
 
-- Desenvolver habilidades em **HTML5, CSS3 e JavaScript**
+- Desenvolver habilidades em **HTML5,JavaScript**
 - Praticar estruturação de páginas web
 - Aplicar boas práticas de organização de código
 - Criar uma interface funcional e visualmente organizada
